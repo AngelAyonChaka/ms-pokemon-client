@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+pokeapi:
+  base-url: https://pokeapi.co/api/v2
+
+storage-service:
+  base-url: http://localhost:8082
